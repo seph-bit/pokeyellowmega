@@ -1,15 +1,15 @@
 Route4WildMons:
 	def_grass_wildmons 20 ; encounter rate
-	db  8, SPEAROW
-	db  9, SPEAROW
-	db  9, MANKEY
-	db 10, SPEAROW
-	db  8, SANDSHREW
-	db 10, RATTATA
-	db 10, SANDSHREW
-	db 12, RATTATA
-	db 11, SPEAROW
 	db 12, SPEAROW
+	db 12, SANDSHREW
+	db 12, MANKEY
+	db 12, PSYDUCK
+	db 15, SANDSHREW
+	db 15, SPEAROW
+	db 14, MANKEY
+	db 15, PSYDUCK
+	db 13, JIGGLYPUFF
+	db 16, JIGGLYPUFF
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
